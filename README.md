@@ -1,2 +1,4 @@
-# sfml-sand-sim
-C++ sand simulation, Noita style
+# C++ Sand simulation with cellular automata 
+Compied binary: ```o.o```
+
+Or compile it youself with: ```make```
